@@ -1,6 +1,6 @@
 {
-    "name": "Kill WP Ads",
-    "version": "1.0",
+    "name": "Kill Ads",
+    "version": "1.0.1",
     "description": "Chrome extension to remove all ads from pages on certain websites",
     "manifest_version": 2,
     "background" : {
